@@ -1,11 +1,11 @@
 # Assignment1-CS2410-Data-Processing
 CS2410 Assignment 1 for Joseph Ditton's class
 
-#Assignment Description
+# Assignment Description
 
 You have been contracted by Figs Unlimited - a company that runs a global marketplace for Fig based Jams and Jellies. They have a pretty sizeable database of transaction history and have contracted you to write some code that will help them gather some information from this data. This project will be a test of your fledgling JavaScript abilities.
 
-##Objectives
+## Objectives
 Write a JavaScript program
 Implement and use Higher Order functions
 Submit an Assignment
